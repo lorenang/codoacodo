@@ -604,7 +604,7 @@ footer {
 
     /* equipo */
 
-    .conten-results {
+    .conten-lawyer {
         flex-direction: column-reverse;
     }
 
@@ -710,14 +710,14 @@ footer {
         display: block;
     }
 
-    /* About us */
+    /* Areas */
 
     .articulo {
         width: 95%;
     }
 
 
-    /* results */
+    /* equipo */
 
     .lawyers .lawyer {
         width: 95%;
@@ -729,7 +729,7 @@ footer {
 
     /* Services */
 
-    .services>iframe {
+    .contact>iframe {
         width: 200px;
     }
 
